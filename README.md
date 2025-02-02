@@ -36,7 +36,7 @@ Follow these steps to set up the app locally:
 1. **Clone the Repository**  
    Open your terminal and run:
    ```bash
-   git clone https://github.com/your-username/internet-status-checker.git
+  https://github.com/coderkrupal/JS-INTERNETCHECKAPP-
 2. **Navigate to the Project Folder
    cd internet-status-checker
    
